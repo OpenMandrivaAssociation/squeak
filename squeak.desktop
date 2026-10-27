@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Squeak
+GenericName=Smalltalk
+Comment=Squeak 6.1 Smalltalk environment
+Exec=squeak-image %f
+Icon=squeak
+Terminal=false
+Type=Application
+Categories=Development;
+MimeType=application/x-squeak-image;
+StartupNotify=true
